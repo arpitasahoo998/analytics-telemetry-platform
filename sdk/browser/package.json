@@ -1,0 +1,19 @@
+{
+  "name": "@analytics/browser-sdk",
+  "version": "1.0.0",
+  "description": "Reusable browser analytics SDK for tracking page views, user activity, and identity stitching",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "keywords": [
+    "analytics",
+    "tracking",
+    "telemetry",
+    "events",
+    "browser-sdk"
+  ],
+  "license": "MIT"
+}
